@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lista_jednokierunkowa/Lista_jednokierunkowa.vcxproj" Id="c0285bf6-fe71-4d7e-9e9d-892bb23ec96e" />
+</Solution>
