@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tablica_dynamiczna/Tablica_dynamiczna.vcxproj" Id="3ad1e453-c57f-4f5f-be45-ab543a31349c" />
+</Solution>
