@@ -164,11 +164,11 @@ int main() {
         cout << "=== MENU TESTOWANIA TABLICY DYNAMICZNEJ ===" << endl;
         cout << "1. Dodawanie na poczatek" << endl;
         cout << "2. Dodawanie na koniec" << endl;
-        cout << "3. Dodawanie pod wybrany indeks (srodek)" << endl;
+        cout << "3. Dodawanie pod wybrany indeks" << endl;
         cout << "4. Usuwanie z poczatku" << endl;
         cout << "5. Usuwanie z konca" << endl;
-        cout << "6. Usuwanie z wybranego indeksu (srodek)" << endl;
-        cout << "7. Wyszukiwanie elementu (najgorszy przypadek)" << endl;
+        cout << "6. Usuwanie z wybranego indeksu" << endl;
+        cout << "7. Wyszukiwanie elementu" << endl;
         cout << "8. Wyjscie z programu" << endl;
         cout << "Wybierz operacje (1-8): ";
         cin >> choice;
@@ -183,10 +183,10 @@ int main() {
             continue;
         }
 
-        cout << "Podaj wielkosc poczatkowa struktury (np. 10000): ";
+        cout << "Podaj wielkosc poczatkowa struktury: ";
         cin >> n;
 
-        cout << "Podaj liczbe powtorzen do wyliczenia sredniej (np. 1000): ";
+        cout << "Podaj liczbe powtorzen do wyliczenia sredniej: ";
         cin >> iterations;
 
         cout << "\nTrwa testowanie, prosze czekac..." << endl;
